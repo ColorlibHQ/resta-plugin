@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.resta-pt-100 {
+    padding-top: 100px;
+}
+.resta-pt-80 {
+    padding-top: 80px;
+}
+.resta-pt-70 {
+    padding-top: 70px;
+}
+.resta-pt-60 {
+    padding-top: 60px;
+}
+.resta-pt-50 {
+    padding-top: 50px;
+}
+.resta-pt-30 {
+    padding-top: 30px;
+}
+.resta-pb-100 {
+    padding-bottom: 100px;
+}
+.resta-pb-80 {
+    padding-bottom: 80px;
+}
+.resta-pb-70 {
+    padding-bottom: 70px;
+}
+.resta-pb-60 {
+    padding-bottom: 60px;
+}
+.resta-pb-50 {
+    padding-bottom: 50px;
+}
+.resta-pb-30 {
+    padding-bottom: 30px;
+}
